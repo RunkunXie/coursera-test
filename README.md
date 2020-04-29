@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Your site is published at https://runkunxie.github.io/coursera-test/
+Your site is published at https://runkunxie.github.io/coursera-web-development/
 
 You can use the [editor on GitHub](https://github.com/RunkunXie/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
