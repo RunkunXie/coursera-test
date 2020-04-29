@@ -1,0 +1,47 @@
+(base) Runkuns-MacBook-Pro:coursera-test vincentxie$ ls
+README.md	_config.yml	site
+(base) Runkuns-MacBook-Pro:coursera-test vincentxie$ browser-sync start --server --directory --files "*"
+[Browsersync] Access URLs:
+ ----------------------------------
+       Local: http://localhost:3006
+    External: http://10.0.0.51:3006
+ ----------------------------------
+          UI: http://localhost:3007
+ UI External: http://localhost:3007
+ ----------------------------------
+[Browsersync] Serving files from: ./
+[Browsersync] Watching files...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
