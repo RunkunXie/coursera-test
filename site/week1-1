@@ -13,7 +13,7 @@ README.md	_config.yml	site
 [Browsersync] Watching files...
 
 
-
+coursera-test vincentxie$ browser-sync start --server --directory --files "**/*"
 
 
 
